@@ -136,3 +136,42 @@ accessing and sharing vast amounts of data among nodes. This data must be
 verified and shared with receiving nodes. By utilizing Merkle trees and cryptography, 
 we arrive at the first public blockchain network, as implemented by Satoshi Nakamoto.
 
+
+## To understand Crypto we must first understand it's origins. 🎒 
+
+Now that we have taken a glimpse into the crypto-graphical origins or crypto, let's take a look at the other driving forces that brought forth this behemoth of a network. That is community, government, and economy.
+From the creators perspective, there was a growing number of problems, but as technology advances, the tools became available to pose a possible solution.
+
+What were these problems? :face_with_monocle: 
+
+In Satoshi's terms, Bitcoin was invented to remove / provide an alternative to third parties, such as Visa, and Western Union. These third parties make a hefty some for conducting money transferring services. In Satoshi's words, 
+
+“The root problem with conventional currency is all the trust that’s required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust. Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve.”
+
+These transaction fees are largely sized based, and wouldn't be much reason for smaller transactions. Perhaps there were deeper motives...
+
+Relying on the standard financial systems has other implications as well that can cause us to take a step back and view how our financial system truly functions as a whole, and the role many governments play in controlling the monetary supply. This may have even been an underlying goal of Satoshi's. 
+
+Satoshi wanted to build a trustless system.
+
+What does this mean?
+
+With our current financial system, there is a lot of trust in specific parties, or "Central entities". One particular area of trust is typically within banks. Trusting that they wont use the money they are holding to extend credit, and loans; precisely what caused the Great Recession of 2008. The underlying issues lead several entities becoming incentivized to take risky actions, such as giving out risky loans. From a direct perspective, it does not appear that these entities have the general populations interest at heart, but hey. Technically that's not their job. 
+
+When these banks over extend their credit, and can't pay back the money they owe to clients, and investors. The insurance agencies, and investment banks, all get bailed out by the government, in whom we must also trust with our money. 
+
+Fun fact, addressing the issue of how organized political finances get spent is, and mitigating corruption through that spending is what inspired Cushy Crypto, and the Crypto Conductors. 
+
+Beyond government bailouts, and transaction fees, these are just some of many simplified examples of the ways our financial system as a whole, is ridden with a moral hazard problem. 
+
+ Central Banks to the rescue  
+
+Luckily, the banks came up with a monetary policy to mitigate the negative economic affects deriving from the risky behavior that continuously takes course. This includes setting limits on loans, and creating restrictions; requiring banks hold a certain reserve, as well as other criteria. This all derives from Keynesian economics dating back to 1930. 
+(Read more here: https://www.imf.org/external/pubs/ft/fandd/2014/09/pdf/basics.pdf)
+
+(Read more on monetary and fiscal policy here:
+ https://www.freefacts.org/ftf-blog/monetary-policy-explained )
+
+If it weren't for government intervention, and increasing the monetary supply, the US may not have been able to recover as well from the 2008 recession. However motivation to print money has not always been the most "fiscally conservative". America for example has continued to print money to pay off their debt despite long debate.
+
+Although the US dollar is much stronger than the Venezeulan Bolívar, or the many other countries experiencing hyper inflation, Rome was quite strong as well during the Roman Empire, both had very similar military budgets as well. Many would argue that Rome had over budgeted  military being one of the many catalysts of their economic downfall.
