@@ -11,6 +11,10 @@ The earliest use of cryptography is hieroglyphs.
 A great example was Edgar Allen Poes “The Gold-Bug” which uses a simple substitution cipher.
 (For more on that: http://csc.columbusstate.edu/summers/NOTES/1301/lab8-f12.pdf)
 
+Here is a python file that will re-arrange a phrase for you with a simple Caesar algorithm:
+https://github.com/MekailTheMachine/Encryptedkiss/blob/master/examples/Caesar.py
+If you run the file, you can input a message, and a key value to shift the letters by. 
+
 You can agree to rearrange every 3rd letter in a series of texts 3 times. 
 People could get ahold of how a party decrypted a message or could figure it out themselves.
 The game changed when computer based encryption came along, with complex algorithms that could encrypt messages one way,
