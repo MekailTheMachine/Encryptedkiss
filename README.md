@@ -60,4 +60,74 @@ The reason we use primes reverts back to our Euler-Zeta formula.
 Now with a more solid understanding of how encryption works, tomorrow we will look at Satoshi Nakomoto's Bitcoin White paper,
  as well as look into some of the references, to understand how encryption built up to this point, why Bitcoin was invented, and how the technology
  integrated with blockchain, and the key concepts of decentralization, how it is achieved through network consensus algorithms, and how it can change the future. 
+ 
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+ 
+ ## Part 2
+ 
+ -----------------------------------------------------------------------------------------------------------------------------------
+ 
+ ## Blockchain, Tokenomics, Value Theory, and Modern Economics 
+
+we dove into encryption and started building a foundation for understanding how it works. 
+To deepen your knowledge, feel free to explore this guide 
+(https://hackernoon.com/how-does-rsa-work-f44918df914b). 
+Now, let's dive into the core of our topic: blockchain technology and Bitcoin!
+
+Follow along as we review Satoshi Nakamoto's groundbreaking Bitcoin whitepaper:
+ https://bitcoin.org/en/bitcoin-paper.
+
+Traditional systems, like Facebook, Twitter, and YouTube,
+ store data in centralized locations controlled by server administrators or entities.
+  Decentralization removes this central storage, spreading data across computers worldwide. 
+  People are incentivized to help carry and add to this data through mining fees or, 
+  in the case of Bitcoin, block rewards.
+
+The data structure we'll focus on is the blockchain, 
+which stores data in "blocks" containing transactions.
+Once all data is verified and certain random requirements are met, 
+the data is "hashed" - run through an algorithm that condenses it into an 
+unpredictable 256-character string. This string starts the sequence for each 
+subsequent block, linking the data together.
+
+If any computer tries to alter past data, the hash would change, 
+causing a mismatch and making the network reject the block and node. 
+Blockchain technology's decentralized nature is exemplified by Bitcoin, 
+as the blockchain ledger is distributed among numerous computers.
+
+![image](https://user-images.githubusercontent.com/49100995/226064330-cb704499-c4c6-411d-9cb1-ef563464cbde.png)
+
+
+Satoshi's whitepaper outlines the problems with financial institutions 
+and how they can be resolved through Bitcoin. The Merkle tree concept, 
+combined with decreasing inflation rates, forces nations to develop protocols 
+for situations like emergency relief programs instead of relying on inflation-based taxation.
+
+Debates over intrinsic and extrinsic values between fiat and cryptocurrencies 
+can get complicated. Money, as a representation of value, varies in importance 
+between individuals. It's crucial to question whether our collective beliefs and 
+values are still beneficial compared to alternative options. Over the past decade, 
+we've seen an increase in Bitcoin's perceived value.
+
+Before we delve into philosophy, let's discuss some definitions:
+
+Intrinsic value: The value inherent in something.
+Extrinsic value: The value attributed to an item, separate from its composition.
+
+The US dollar is a good example. What are its intrinsic and extrinsic 
+values before and after the Nixon-era gold standard? Currently, 
+the intrinsic value of the dollar is the cotton it's made from, 
+while its extrinsic value is the societal agreement on its worth.
+
+As a society, we must question whether our current values and beliefs 
+continue to benefit us compared to alternatives. We will host in-depth 
+classes on financial systems and structures. If you're curious to learn more, 
+feel free to reach out to our admins for recommended resources.
+
+Centralized networks can easily store and access data in a single location. 
+However, decentralized blockchain networks face challenges in efficiently 
+accessing and sharing vast amounts of data among nodes. This data must be 
+verified and shared with receiving nodes. By utilizing Merkle trees and cryptography, 
+we arrive at the first public blockchain network, as implemented by Satoshi Nakamoto.
 
