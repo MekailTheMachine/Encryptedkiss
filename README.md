@@ -82,7 +82,8 @@ Now, let's dive into the core of our topic: blockchain technology and Bitcoin!
 Follow along as we review Satoshi Nakamoto's groundbreaking Bitcoin whitepaper:
  https://bitcoin.org/en/bitcoin-paper.
 
-Traditional systems, like Facebook, Twitter, and YouTube,
+#Traditional systems
+like Facebook, Twitter, and YouTube,
  store data in centralized locations controlled by server administrators or entities.
   Decentralization removes this central storage, spreading data across computers worldwide. 
   People are incentivized to help carry and add to this data through mining fees or, 
