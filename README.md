@@ -136,6 +136,11 @@ accessing and sharing vast amounts of data among nodes. This data must be
 verified and shared with receiving nodes. By utilizing Merkle trees and cryptography, 
 we arrive at the first public blockchain network, as implemented by Satoshi Nakamoto.
 
+-------------------------------------------------------------
+
+## part 3
+
+--------------------------------------------------------------
 
 ## To understand Crypto we must first understand it's origins. 🎒 
 
