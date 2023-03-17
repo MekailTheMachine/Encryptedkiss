@@ -147,7 +147,7 @@ we arrive at the first public blockchain network, as implemented by Satoshi Naka
 Now that we have taken a glimpse into the crypto-graphical origins or crypto, let's take a look at the other driving forces that brought forth this behemoth of a network. That is community, government, and economy.
 From the creators perspective, there was a growing number of problems, but as technology advances, the tools became available to pose a possible solution.
 
-What were these problems? :face_with_monocle: 
+What were these problems? 
 
 In Satoshi's terms, Bitcoin was invented to remove / provide an alternative to third parties, such as Visa, and Western Union. These third parties make a hefty some for conducting money transferring services. In Satoshi's words, 
 
