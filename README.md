@@ -3,9 +3,18 @@
 ![image](https://user-images.githubusercontent.com/49100995/226084203-6df403f3-7956-4ebf-aa3e-1cfbbdabde72.png)
 
 
-From encryption, we will have hopefully built a solid foundation of computers, and how encryption works on a basic level. 
-Afterwards, it is important to also build a healthy foundation of financial and economical systems, to truly understand modern defi systems.
-and as we merge the two concepts together, we will devlop deeper understandings of how they merge themselves. 🖥️ 
+Encryption is a fundamental concept in todays modern world of technology.
+
+From encrypted messages, end-to-end private converations portected passwords in servers; its crypto. 
+Some may wonder how these mechanisms work, as well as how they were put together to form cryptocurrencies. 
+
+A solid foundation of computers is helpful, if you have not check out the Conducotrs Guide repository yet, but is not entirely needed.
+
+We will explore how encryption works on a basic level, and ramp it up to the proofs and core quite quickly. It's alright okay to not fully grasp it initially, but understanding that there are proofs, seeing them, (or trying to hack for that matter) can help create a more solid foundation in working closer with web3 and machines.
+
+Afterwards, it is important to also build a healthy foundation of financial and economical systems, to truly understand modern defi systems, and how they relate, as we do live in a relative world as they say.
+
+As we merge the two concepts together, we will devlop deeper understandings of how they merge themselves. 🖥️  
 
 The history is long and complex but there has always been a desire to store secretive information.
 
