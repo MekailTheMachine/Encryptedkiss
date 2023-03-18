@@ -145,7 +145,7 @@ we arrive at the first public blockchain network, as implemented by Satoshi Naka
 
 --------------------------------------------------------------
 
-## To understand Crypto we must first understand it's origins. 🎒 
+## To understand Cryptocurrency we must understand the origins of money. 🎒 
 
 Now that we have taken a glimpse into the crypto-graphical origins or crypto, let's take a look at the other driving forces that brought forth this behemoth of a network. That is community, government, and economy.
 From the creators perspective, there was a growing number of problems, but as technology advances, the tools became available to pose a possible solution.
