@@ -1,5 +1,8 @@
 ## Introduction to Encryption in Cryptocurrency
 
+![image](https://user-images.githubusercontent.com/49100995/226084203-6df403f3-7956-4ebf-aa3e-1cfbbdabde72.png)
+
+
 From encryption, we will have hopefully built a solid foundation of computers, and how encryption works on a basic level. 
 Afterwards, it is important to also build a healthy foundation of financial and economical systems, to truly understand modern defi systems.
 and as we merge the two concepts together, we will devlop deeper understandings of how they merge themselves. 🖥️ 
